@@ -1,7 +1,8 @@
 import React from "react";
+import Freelances from "./freelances/Freelances";
 
 const Home = () => {
-   return <div> je suis dans home</div>;
+   return <Freelances />;
 };
 
 export default Home;
